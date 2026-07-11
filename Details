@@ -1,0 +1,68 @@
+📌 Overview
+
+This is a console-based Stock Management System developed in C++ as an Introduction to Computing (ITC) course project.
+
+The project helps users manage product inventory by allowing them to add, view, search, edit, and sell products while monitoring low stock levels.
+
+✨ Features
+
+➕ Add new products
+📋 View all products
+🔍 Search products by ID
+💰 Sell products
+⚠️ Low stock alert
+✏️ Edit product details
+🆔 Automatic Product ID generation
+✅ Input validation for price and quantity
+
+🛠️ Technologies Used
+
+C++
+Console Application
+Arrays
+Loops
+Conditional Statements
+Switch Case
+Functions of Standard Library
+
+▶️ How to Run
+
+Download or clone this repository.
+Open the project in any C++ IDE (Code::Blocks, Dev-C++, Visual Studio, or VS Code).
+Compile the program.
+Run the executable.
+Follow the on-screen menu.
+
+📖 Concepts Used
+
+Arrays
+Loops
+Conditional Statements
+Switch Case
+Input Validation
+Basic Inventory Management
+Searching
+
+🚀 Future Improvements
+
+File Handling
+Object-Oriented Programming (OOP)
+Delete Product Feature
+Search by Name
+Search by Category
+Database Integration (MySQL/SQLite)
+Graphical User Interface (GUI)
+
+👩‍💻 Author
+
+Akasha Urooj
+
+AI Student | Aspiring AI Engineer
+
+Currently learning:
+
+C++
+Python
+Machine Learning
+Deep Learning
+Agentic AI
